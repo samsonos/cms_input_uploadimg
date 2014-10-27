@@ -1,0 +1,16 @@
+{
+    "name":"samsonos/cms_input_uploadimg",
+    "description":"SamsonCMS Image upload input field module",
+    "author":"Vitaly Iegorov <egorov@samsonos.com>",
+    "require":{
+        "samsonos/cms_field_upload":"*"
+    },
+    "license":"Open Software License (OSL) v 3.0",
+    "homepage":"http://samsonos.com/",
+    "autoload": {
+        "classmap": ["src/"],
+        "psr-0": {
+            "samson\\cms\\input": "src/"
+        }
+    }
+}

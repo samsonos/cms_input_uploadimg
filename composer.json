@@ -3,7 +3,7 @@
     "description":"SamsonCMS Image upload input field module",
     "author":"Vitaly Iegorov <egorov@samsonos.com>",
     "require":{
-        "samsonos/cms_field_upload":"*"
+        "samsonos/cms_input_upload":"*"
     },
     "license":"Open Software License (OSL) v 3.0",
     "homepage":"http://samsonos.com/",
